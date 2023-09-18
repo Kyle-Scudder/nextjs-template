@@ -164,7 +164,7 @@ const AccountProfile = ({ user, btnTitle }: Props) => {
           name="bio"
           render={({ field }) => (
             <FormItem className="flex flex-col gap-3 w=full">
-              <FormLabel className="text-base-semibold text-light-2">
+              <FormLabel className="text-lg leading-6 font-semibold text-dark-2 dark:text-light-2">
                 Bio
               </FormLabel>
               <FormControl>

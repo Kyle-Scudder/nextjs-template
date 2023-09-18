@@ -20,7 +20,7 @@ export default function Topbar() {
           width={28}
         />
         <p
-          className="text-heading3-bold 
+          className="text-2xl leading-6 font-bold
 				text-light-1 max-xs:hidden"
         >
           PRJOECT_NAME
