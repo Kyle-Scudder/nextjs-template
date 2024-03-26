@@ -29,7 +29,7 @@
     "autoprefixer": "10.4.19",
     "class-variance-authority": "^0.7.0",
     "eslint": "8.57.0",
-    "eslint-config-next": "14.1.0",
+    "eslint-config-next": "14.1.4",
     "infisical-node": "^1.5.0",
     "mongoose": "^8.2.3",
     "next": "14.1.4",
